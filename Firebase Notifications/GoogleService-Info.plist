@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>776667055888-nmrju0kqggsi8pgtnqhhurkvv3tao5d6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.776667055888-nmrju0kqggsi8pgtnqhhurkvv3tao5d6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>776667055888-8l2c7e69j17hn0mebp50ubhrs364p447.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqfykchC-EwrPPeRWZnr7iBxctTuNHIFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776667055888</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jorge.casariego.Firebase-Notifications</string>
+	<key>PROJECT_ID</key>
+	<string>fir-pushnotification-b2425</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-pushnotification-b2425.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776667055888:ios:2ee59881ccbe8c0f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-pushnotification-b2425.firebaseio.com</string>
+</dict>
+</plist>
